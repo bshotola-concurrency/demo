@@ -1,7 +1,12 @@
 Make,Model,YearStart,YearEnd,Owner
 Jaguar,Mark 2,1959,1967,Independent
+Jaguar,XJ220,1992,1994,Independent
+Jaguar,E-Type,1961,1975,Jaguar Cars Ltd
+Jaguar,Mark V,1948,1951,Jaguar Cars Ltd
 Acura,Integra,1985,2006,Honda Motors
 Kia,Telluride,2000,2021,Hyundai Motor Group
 Roadster,Tesla,2008,2011,Tesla Motors
 Chevrolet,Tahoe,1992,2020,GM
 Toyota,Sequoia,2000,2020,Toyota Motors
+Ford,F150,1948,2020,Ford
+Chevrolet,Silverado,1998,2020,GM
