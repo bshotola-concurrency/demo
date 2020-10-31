@@ -9,3 +9,4 @@ Roadster,Tesla,2008,2011,Tesla Motors
 Ford,F150,1948,2020,Ford
 Chevrolet,Silverado,1998,2020,GM
 Chevrolet,Tahoe,1992,2020,GM
+Toyota,Sequoia,2000,2020,Toyota Motors
