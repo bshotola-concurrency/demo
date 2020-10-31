@@ -3,3 +3,4 @@ Jaguar,Mark 2,1959,1967,Independent
 Acura,Integra,1985,2006,Honda Motors
 Kia,Telluride,2000,2021,Hyundai Motor Group
 Roadster,Tesla,2008,2011,Tesla Motors
+Chevrolet,Tahoe,1992,2020,GM
