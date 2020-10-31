@@ -6,3 +6,4 @@ Jaguar,Mark V,1948,1951,Jaguar Cars Ltd
 Acura,Integra,1985,2006,Honda Motors
 Kia,Telluride,2000,2021,Hyundai Motor Group
 Roadster,Tesla,2008,2011,Tesla Motors
+Ford,F150,1948,2020,Ford
