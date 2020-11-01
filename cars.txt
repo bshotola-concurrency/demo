@@ -10,3 +10,4 @@ Ford,F150,1948,2020,Ford
 Chevrolet,Silverado,1998,2020,GM
 Genesis,G80,2016,2020,Hyundai
 Chevrolet,Corvette,1953,1982,GM
+Chevrolet,Camero,1966,2002,GM
