@@ -12,3 +12,4 @@ Pontiac,Aztek,2000,2005,GM
 Pontiac,Fiero,1984,1988,GM
 Saturn,Sky,2006,2009,GM
 Plymouth,Prowler,1997,2002,DaimlerChrysler
+Lamborghini,Urus,2018,2020,VW
