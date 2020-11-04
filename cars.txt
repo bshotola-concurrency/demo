@@ -13,3 +13,4 @@ Pontiac,Fiero,1984,1988,GM
 Saturn,Sky,2006,2009,GM
 Plymouth,Prowler,1997,2002,DaimlerChrysler
 Audi,A8,1980,2020,VW
+Audi,A4,1985,2020,VW
